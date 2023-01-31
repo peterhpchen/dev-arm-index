@@ -1,4 +1,4 @@
-# Rectangle - 視窗管理工具
+# Rectangle - 視窗管理工具 <Badge type="danger" text="macOS" /> <Badge type="warning" text="Homebrew" />
 
 <p><img src="./assets/cover.png" style="height: 100px;" /></p>
 
@@ -16,10 +16,6 @@
 ```ruby [Brewfile]
 tap "homebrew/cask"
 cask "rectangle"
-```
-
-```sh [Homebrew]
-$ brew install --cask rectangle
 ```
 
 :::

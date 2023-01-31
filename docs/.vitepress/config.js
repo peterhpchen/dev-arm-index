@@ -16,56 +16,56 @@ export default {
           { text: 'Rectangle - 視窗管理工具', link: '/desktop/rectangle/' },
         ],
       },
-      // {
-      //   text: '終端',
-      //   items: [
-      //     { text: 'Homebrew - 套件管理工具', link: '/terminal/homebrew/' },
-      //     {
-      //       text: 'Neofetch',
-      //       link: '/terminal/neofetch/',
-      //     },
-      //     {
-      //       text: 'tmux - 終端管理工具',
-      //       link: '/terminal/tmux/',
-      //       items: [
-      //         {
-      //           text: 'tmuxinator - tmux sessions 管理工具',
-      //           link: '/terminal/tmux/tmuxinator/',
-      //         },
-      //         {
-      //           text: 'TPM - Tmux Plugin Manager',
-      //           link: '/terminal/tmux/tpm/',
-      //         },
-      //       ],
-      //     },
-      //     {
-      //       text: 'Z shell - Zsh',
-      //       link: '/terminal/zsh/',
-      //       items: [
-      //         {
-      //           text: 'Powerlevel10k',
-      //           link: '/terminal/zsh/powerlevel10k/',
-      //         },
-      //         {
-      //           text: 'zsh-autosuggestions',
-      //           link: '/terminal/zsh/zsh-autosuggestions/',
-      //         },
-      //         {
-      //           text: 'zsh-completions',
-      //           link: '/terminal/zsh/zsh-completions/',
-      //         },
-      //         {
-      //           text: 'zsh-history-substring-search',
-      //           link: '/terminal/zsh/zsh-history-substring-search/',
-      //         },
-      //         {
-      //           text: 'zsh-syntax-highlighting',
-      //           link: '/terminal/zsh/zsh-syntax-highlighting/',
-      //         },
-      //       ],
-      //     },
-      //   ],
-      // },
+      {
+        text: '終端',
+        items: [
+          { text: 'Homebrew - 套件管理工具', link: '/terminal/homebrew/' },
+          // {
+          //   text: 'Neofetch',
+          //   link: '/terminal/neofetch/',
+          // },
+          // {
+          //   text: 'tmux - 終端管理工具',
+          //   link: '/terminal/tmux/',
+          //   items: [
+          //     {
+          //       text: 'tmuxinator - tmux sessions 管理工具',
+          //       link: '/terminal/tmux/tmuxinator/',
+          //     },
+          //     {
+          //       text: 'TPM - Tmux Plugin Manager',
+          //       link: '/terminal/tmux/tpm/',
+          //     },
+          //   ],
+          // },
+          // {
+          //   text: 'Z shell - Zsh',
+          //   link: '/terminal/zsh/',
+          //   items: [
+          //     {
+          //       text: 'Powerlevel10k',
+          //       link: '/terminal/zsh/powerlevel10k/',
+          //     },
+          //     {
+          //       text: 'zsh-autosuggestions',
+          //       link: '/terminal/zsh/zsh-autosuggestions/',
+          //     },
+          //     {
+          //       text: 'zsh-completions',
+          //       link: '/terminal/zsh/zsh-completions/',
+          //     },
+          //     {
+          //       text: 'zsh-history-substring-search',
+          //       link: '/terminal/zsh/zsh-history-substring-search/',
+          //     },
+          //     {
+          //       text: 'zsh-syntax-highlighting',
+          //       link: '/terminal/zsh/zsh-syntax-highlighting/',
+          //     },
+          //   ],
+          // },
+        ],
+      },
       // {
       //   text: '編輯器',
       //   items: [

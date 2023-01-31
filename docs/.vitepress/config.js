@@ -66,21 +66,25 @@ export default {
           // },
         ],
       },
-      // {
-      //   text: '編輯器',
-      //   items: [
-      //     {
-      //       text: 'Neovim',
-      //       link: '/editor/nvim/',
-      //       items: [
-      //         {
-      //           text: 'packer.nvim',
-      //           link: '/editor/nvim/packer.nvim/',
-      //         },
-      //       ],
-      //     },
-      //   ],
-      // },
+      {
+        text: '編輯器',
+        items: [
+          {
+            text: 'Neovim',
+            link: '/editor/nvim/',
+            items: [
+              {
+                text: 'packer.nvim',
+                link: '/editor/nvim/packer.nvim/',
+              },
+              {
+                text: 'fidget.nvim',
+                link: '/editor/nvim/fidget.nvim/',
+              },
+            ],
+          },
+        ],
+      },
     ],
   },
 };

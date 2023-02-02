@@ -64,6 +64,7 @@ export default {
           //     },
           //   ],
           // },
+          { text: 'im-select', link: '/terminal/im-select/' },
         ],
       },
       {
@@ -80,6 +81,10 @@ export default {
               {
                 text: 'fidget.nvim',
                 link: '/editor/nvim/fidget.nvim/',
+              },
+              {
+                text: 'im-select.nvim',
+                link: '/editor/nvim/im-select.nvim/',
               },
             ],
           },

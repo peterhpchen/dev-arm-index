@@ -4,6 +4,9 @@ export default {
   lang: 'zh-Hant',
   base: '/my-dev-arms/',
   cleanUrls: 'without-subfolders',
+  markdown: {
+    lineNumbers: true,
+  },
   themeConfig: {
     sidebar: [
       // {
@@ -20,6 +23,7 @@ export default {
         text: '終端',
         items: [
           { text: 'Homebrew - 套件管理工具', link: '/terminal/homebrew/' },
+          { text: 'NVM - Node Version Manager', link: '/terminal/nvm/' },
           // {
           //   text: 'Neofetch',
           //   link: '/terminal/neofetch/',

@@ -9,10 +9,10 @@ export default {
   },
   themeConfig: {
     sidebar: [
-      // {
-      //   text: '指南',
-      //   items: [{ text: '目錄', link: '/guide/' }],
-      // },
+      {
+        text: 'Cheatsheet',
+        items: [{ text: '總表', link: '/cheatsheet/' }],
+      },
       {
         text: '桌面應用程式',
         items: [

@@ -1,7 +1,5 @@
 # NVM - Node Version Manager <Badge type="warning" text="Zsh" />
 
-<p><img src="./assets/cover.svg" style="height: 100px; width: 100px;" /></p>
-
 Node.js 版本管理器。
 
 ## 相依

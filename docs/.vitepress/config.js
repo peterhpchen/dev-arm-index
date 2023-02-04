@@ -5,13 +5,19 @@ export default {
   base: '/my-dev-arms/',
   cleanUrls: 'without-subfolders',
   markdown: {
-    lineNumbers: true,
+    lineNumbers: false,
   },
   themeConfig: {
     sidebar: [
       {
-        text: 'Cheatsheet',
-        items: [{ text: '總表', link: '/cheatsheet/' }],
+        text: '指南',
+        items: [{ text: '用途', link: '/guide/' }],
+      },
+      {
+        text: '速查表',
+        items: [
+          { text: '全表', link: '/cheatsheet/' },
+        ],
       },
       // {
       //   text: '桌面應用程式',

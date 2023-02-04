@@ -1,4 +1,4 @@
-# Cheatsheet
+# 全表
 
 ## Rectangle <Badge text="macOS" />
 
@@ -18,3 +18,7 @@
 <Cover src="https://raw.githubusercontent.com/mas-cli/mas/main/mas-cli.png" />
 
 <!-- @include: ../terminal/mas-cli/sheet.md -->
+
+## exa
+
+<!-- @include: ../terminal/exa/sheet.md -->

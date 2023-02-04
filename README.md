@@ -1,5 +1,12 @@
 # 開發工具使用說明書
 
+- [ ] 速查表
+  - [ ] 全表
+    - [x] Rectangle
+    - [x] Homebrew
+    - [x] mas-cli
+    - [ ] exa
+
 - [ ] desktop
   - [x] rectangle
 - [ ] terminal

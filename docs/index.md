@@ -11,6 +11,5 @@ hero:
   actions:
     - theme: brand
       text: 看譜
-      # link: /guide/
-      link: /desktop/rectangle/
+      link: /cheatsheet/
 ---

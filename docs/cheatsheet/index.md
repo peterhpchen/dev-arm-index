@@ -18,7 +18,7 @@
 
 <!-- @include: ../terminal/mas-cli/sheet.md -->
 
-## bat
+## BAT
 
 <Cover src="https://raw.githubusercontent.com/sharkdp/bat/master/doc/logo-header.svg" />
 

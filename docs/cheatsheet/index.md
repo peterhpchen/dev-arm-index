@@ -18,6 +18,12 @@
 
 <!-- @include: ../terminal/mas-cli/sheet.md -->
 
+## tmux
+
+<Cover src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo.svg" />
+
+<!-- @include: ../terminal/tmux/sheet.md -->
+
 ## BAT
 
 <Cover src="https://raw.githubusercontent.com/sharkdp/bat/master/doc/logo-header.svg" />

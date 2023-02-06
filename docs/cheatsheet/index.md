@@ -33,3 +33,7 @@
 ## exa
 
 <!-- @include: ../terminal/exa/sheet.md -->
+
+## man
+
+<!-- @include: ../terminal/man/sheet.md -->

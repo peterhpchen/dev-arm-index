@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,e as c}from"./app.10524c09.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"terminal/man/sheet.md"}'),d={name:"terminal/man/sheet.md"},l=c("",3),i=[l];function a(n,s,r,_,g,p){return o(),t("div",null,i)}const h=e(d,[["render",a]]);export{u as __pageData,h as default};

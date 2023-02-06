@@ -11,7 +11,10 @@ export default {
     sidebar: [
       {
         text: '指南',
-        items: [{ text: '用途', link: '/guide/' }],
+        items: [
+          { text: '用途', link: '/guide/' },
+          { text: '貢獻指南', link: '/guide/contributing' },
+        ],
       },
       {
         text: '速查表',

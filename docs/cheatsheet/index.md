@@ -37,3 +37,7 @@
 ## man
 
 <!-- @include: ../terminal/man/sheet.md -->
+
+## curl
+
+<!-- @include: ../terminal/curl/sheet.md -->

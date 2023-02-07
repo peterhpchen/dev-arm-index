@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as e,e as s}from"./app.2f11f8b1.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"desktop/rectangle/sheet.md"}'),c={name:"desktop/rectangle/sheet.md"},r=s("",2),n=[r];function l(d,i,_,a,g,p){return e(),o("div",null,n)}const h=t(c,[["render",l]]);export{u as __pageData,h as default};

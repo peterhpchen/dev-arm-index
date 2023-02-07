@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as t,e as n}from"./app.488de0bd.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"terminal/bat/sheet.md"}'),l={name:"terminal/bat/sheet.md"},e=n("",2),o=[e];function p(c,i,r,d,h,m){return t(),a("div",null,o)}const u=s(l,[["render",p]]);export{_ as __pageData,u as default};

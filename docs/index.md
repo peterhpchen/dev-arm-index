@@ -11,5 +11,5 @@ hero:
   actions:
     - theme: brand
       text: 看譜
-      link: /cheatsheet/
+      link: /guide/cheatsheet
 ---

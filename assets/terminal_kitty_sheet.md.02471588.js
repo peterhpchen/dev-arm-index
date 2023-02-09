@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.488de0bd.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"terminal/kitty/sheet.md"}'),r={name:"terminal/kitty/sheet.md"};function s(n,o,c,i,p,_){return a(),t("div")}const l=e(r,[["render",s]]);export{d as __pageData,l as default};

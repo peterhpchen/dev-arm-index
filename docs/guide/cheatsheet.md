@@ -6,6 +6,12 @@
 
 <!-- @include: ../desktop/rectangle/sheet.md -->
 
+## kitty
+
+* `⌘ =` ：放大字體。
+* `⌘ -` ：縮小字體。
+* `⌘ 0` ：重設字體。
+
 ## Homebrew <Badge text="macOS" />
 
 <Cover src="https://raw.githubusercontent.com/Homebrew/brew.sh/master/assets/img/homebrew.svg" />

@@ -1,6 +1,6 @@
 export default {
-  title: '兵器譜',
-  description: '我的軟體開發工具列表',
+  title: '工具指南',
+  description: '軟體開發工具的使用及配置說明',
   lang: 'zh-Hant',
   base: '/my-dev-arms/',
   cleanUrls: 'without-subfolders',
@@ -106,6 +106,10 @@ export default {
         },
       ],
       '/editor/': [
+        {
+          text: '編輯器',
+          items: [{ text: '介紹', link: '/editor/' }],
+        },
         {
           text: 'Neovim',
           items: [

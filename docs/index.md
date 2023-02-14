@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 操作說明
-      link: /guide/
+      link: /guide/cheatsheet
     # - theme: alt
     #   text: 配置說明
     #   link: /config/

@@ -6,13 +6,13 @@
 
 <Cover src="https://raw.githubusercontent.com/rxhanson/Rectangle/master/Rectangle/Assets.xcassets/AppIcon.appiconset/mac512pts2x.png" />
 
-<!-- @include: ../desktop/rectangle/sheet.md -->
+<!-- @include: ../rectangle/sheet.md -->
 
 ### kitty
 
 <Cover src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" />
 
-<!-- @include: ../desktop/kitty/sheet.md -->
+<!-- @include: ../kitty/sheet.md -->
 
 ## 終端
 
@@ -20,43 +20,43 @@
 
 <Cover src="https://raw.githubusercontent.com/Homebrew/brew.sh/master/assets/img/homebrew.svg" />
 
-<!-- @include: ../terminal/homebrew/sheet.md -->
+<!-- @include: ../homebrew/sheet.md -->
 
 ### mas-cli <Badge text="macOS" />
 
 <Cover src="https://raw.githubusercontent.com/mas-cli/mas/main/mas-cli.png" />
 
-<!-- @include: ../terminal/mas-cli/sheet.md -->
+<!-- @include: ../mas-cli/sheet.md -->
 
 ### docker
 
 <Cover src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
 
-<!-- @include: ../terminal/docker/sheet.md -->
+<!-- @include: ../docker/sheet.md -->
 
 ### tmux
 
 <Cover src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo.svg" />
 
-<!-- @include: ../terminal/tmux/sheet.md -->
+<!-- @include: ../tmux/sheet.md -->
 
 ### BAT
 
 <Cover src="https://raw.githubusercontent.com/sharkdp/bat/master/doc/logo-header.svg" />
 
-<!-- @include: ../terminal/bat/sheet.md -->
+<!-- @include: ../bat/sheet.md -->
 
 ### exa
 
-<!-- @include: ../terminal/exa/sheet.md -->
+<!-- @include: ../exa/sheet.md -->
 
 ### man
 
-<!-- @include: ../terminal/man/sheet.md -->
+<!-- @include: ../man/sheet.md -->
 
 ### curl
 
-<!-- @include: ../terminal/curl/sheet.md -->
+<!-- @include: ../curl/sheet.md -->
 
 ## 編輯器
 
@@ -64,4 +64,4 @@
 
 <Cover src="https://raw.githubusercontent.com/neovim/neovim/master/cmake.packaging/neovim.svg" />
 
-<!-- @include: ../editor/nvim/sheet.md -->
+<!-- @include: ../nvim/sheet.md -->

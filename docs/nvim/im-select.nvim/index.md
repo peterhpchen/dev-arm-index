@@ -5,7 +5,7 @@
 ## 相依
 
 - 僅可安裝於 Neovim 。
-- 需安裝 [im-select](/terminal/im-select/) 。
+- 需安裝 [im-select](/im-select/) 。
 - 使用 packer.nvim 管理。
 
 ## 安裝

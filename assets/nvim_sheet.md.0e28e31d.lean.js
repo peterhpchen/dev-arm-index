@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as c,a as t}from"./app.6af8a59d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nvim/sheet.md"}'),i={name:"nvim/sheet.md"},d=t("",1),l=[d];function _(s,a,n,r,p,m){return c(),o("div",null,l)}const u=e(i,[["render",_]]);export{f as __pageData,u as default};

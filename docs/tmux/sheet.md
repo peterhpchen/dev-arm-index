@@ -17,6 +17,7 @@
 * `<prefix> c` ：新增 window 。
 * `<prefix> n` ：移動至下一個 window 。
 * `<prefix> p` ：移動至上一個 window 。
+* `<prefix> s` ：開啟 sessions 選擇功能。
 * `<prefix> d` ： detach 目前的 client 。
 * `<prefix> [` ：進入 copy 模式，藉以複製字串或觀看歷史紀錄。
 * `<prefix> %` ：將此 pane 切割為兩個 panes ，左跟右。

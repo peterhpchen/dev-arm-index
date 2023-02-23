@@ -58,6 +58,27 @@
 
 <!-- @include: ../curl/sheet.md -->
 
+### SDKMAN
+
+<Cover src="https://raw.githubusercontent.com/sdkman/sdkman-website/master/public/img/sdk-man-small-pattern.svg" />
+
+<!-- @include: ../sdkman/sheet.md -->
+
+### pyenv
+
+* `pyenv install` ：依照當前目錄下的 `.python-version` 設定安裝對應的版本。
+* `pyenv virtualenv <virtualenv-name>` ：用當前的版本建立 `<virtualenv-name>` 名稱的 virtual env 。
+* `pyenv activate <virtualenv-name>` ：啟動 `<virtualenv-name>` 。
+* `pyenv deactivate` ：關閉當前執行的 virtual env 。
+
+### ssh
+
+* `ssh <destination>` ：使用預設的設定進入 `<destination>` 中。
+
+### passwd
+
+* `passwd` ：更新當前 User 的密碼。
+
 ## 編輯器
 
 ### Neovim

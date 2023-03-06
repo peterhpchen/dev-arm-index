@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as l}from"./app.4eb2f6eb.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"homebrew/sheet.md"}'),c={name:"homebrew/sheet.md"},a=l("",1),r=[a];function s(d,i,_,n,f,u){return o(),t("div",null,r)}const b=e(c,[["render",s]]);export{g as __pageData,b as default};

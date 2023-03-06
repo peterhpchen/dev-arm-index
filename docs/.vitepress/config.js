@@ -61,6 +61,7 @@ export default {
           { text: 'packer.nvim', link: '/nvim/packer.nvim/' },
         ],
       },
+      { text: '候選者', link: '/guide/candidates' },
       { text: '貢獻', link: '/guide/contributing' },
     ],
   },

@@ -4,7 +4,7 @@
 
 ### Plugins
 
-由 packer.nvim 安裝與管理。
+由 ~~packer.nvim~~ lazy.nvim 安裝與管理。
 
 ### Treesitter
 
@@ -26,48 +26,58 @@
 
 ### lua
 
-* language server: lua_ls
-* formatter: stylua
+- language server: lua_ls
+- formatter: stylua
 
 ### astro
 
-* language server: astro, tailwindcss
+- language server: astro, tailwindcss
 
-### sh 
+### sh
 
-* language server: bashls
-* linter: shellcheck
-* formatter: shfmt
+- language server: bashls
+- linter: shellcheck
+- formatter: shfmt
 
 ### dockerfile
 
-* language server: dockerls
-* linter: hadolint
+- language server: dockerls
+- linter: hadolint
 
 ### javascript
 
-* language server: eslint, tailwindcss, tsserver
-* formatter: prettierd
+- language server: eslint, tailwindcss, tsserver
+- formatter: prettierd
 
 ### typescript
 
-* language server: eslint, tailwindcss, tsserver
-* formatter: prettierd
+- language server: eslint, tailwindcss, tsserver
+- formatter: prettierd
 
 ### vue
 
-* language server: eslint, tailwindcss, volar
+- language server: eslint, tailwindcss, volar
 
 ### json
 
-* language server: jsonls
-* formatter: prettierd
+- language server: jsonls
+- formatter: prettierd
 
 ### python
 
-* language server: pyright
-* formatter: black, isort
+- language server: pyright
+- formatter: black, isort
 
-### rust
+### ~~rust~~
 
-* language server: rust_analyzer
+- plugins: rust-tools
+- language server: rust_analyzer
+
+## Deprecated
+
+- packer.nvim
+- toggleterm.nvim
+- alpha.nvim
+- which-key.nvim
+- trouble.nvim
+- nvim-tree.nvim

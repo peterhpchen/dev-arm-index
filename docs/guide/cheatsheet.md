@@ -66,18 +66,35 @@
 
 ### pyenv
 
-* `pyenv install` ：依照當前目錄下的 `.python-version` 設定安裝對應的版本。
-* `pyenv virtualenv <virtualenv-name>` ：用當前的版本建立 `<virtualenv-name>` 名稱的 virtual env 。
-* `pyenv activate <virtualenv-name>` ：啟動 `<virtualenv-name>` 。
-* `pyenv deactivate` ：關閉當前執行的 virtual env 。
+- `pyenv install` ：依照當前目錄下的 `.python-version` 設定安裝對應的版本。
+- `pyenv virtualenv <virtualenv-name>` ：用當前的版本建立 `<virtualenv-name>` 名稱的 virtual env 。
+- `pyenv activate <virtualenv-name>` ：啟動 `<virtualenv-name>` 。
+- `pyenv deactivate` ：關閉當前執行的 virtual env 。
 
 ### ssh
 
-* `ssh <destination>` ：使用預設的設定進入 `<destination>` 中。
+- `ssh <destination>` ：使用預設的設定進入 `<destination>` 中。
+
+### scp
+
+- `scp -i <ssh-key> -r <local-path> <remote-path>` ：將 `<local-path>` 的檔案以 `<ssh-key>` 的身份複製到 `<remote-path>` 上。 `<remote-path>` 格式為 `<ip>:<path>` 。
+
+### docker
+
+- `docker attach <container>` ：將 detached 的 container 重新叫回。
+- `docker system prune --all` ：清空所有 docker 暫存檔。
+
+### df
+
+`df -h` ：硬碟容量以及剩餘大小。
+
+### lsblk
+
+`lsblk` ：硬碟資訊總覽。
 
 ### passwd
 
-* `passwd` ：更新當前 User 的密碼。
+- `passwd` ：更新當前 User 的密碼。
 
 ## 編輯器
 

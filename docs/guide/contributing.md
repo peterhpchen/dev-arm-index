@@ -2,6 +2,18 @@
 
 ## 文件格式
 
+### 標題
+
+使用 `<Badge>` 顯示目前 dotfiles 中的相依。
+
+### 大綱
+
+使用 `:globe_with_meridians:` 表示官網， `octopus` 表示 GitHub 庫。
+
+### 相依
+
+表示此工具的相關限制（並非 dotfiles 中的相依，例如有些工具可以跨作業系統，但如果 dotfiles 中只有設定 macos 時，標題會顯示 macos ，而相依不會包含）。
+
 ### ~~設定檔~~
 
 - 用 `@include` 透過 `src` 中的原始程式庫載入。
@@ -14,9 +26,17 @@
 
 使用程式碼說明安裝方式。
 
+> 使用 `:point_right:` 圖示連結到 dotfiles 中的 dot 資料夾。
+
 ### 配置
 
 說明 dotfiles 中需要特別解釋的配置。
+
+> 使用 `:point_right:` 圖示連結到 dotfiles 中的 dot 資料夾。
+
+### packages
+
+列出相關的插件與其說明。
 
 ### 速查表
 

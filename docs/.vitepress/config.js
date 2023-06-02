@@ -8,6 +8,9 @@ export default {
     lineNumbers: false,
   },
   themeConfig: {
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/peterhpchen/my-dev-arms' },
+    ],
     sidebar: [
       { text: '介紹', link: '/guide/introduction' },
       { text: '速查表', link: '/guide/cheatsheet' },
@@ -15,7 +18,11 @@ export default {
         text: '桌面',
         items: [
           { text: 'Rectangle', link: '/rectangle/' },
-          { text: 'kitty', link: '/kitty/' },
+          {
+            text: 'kitty',
+            link: '/kitty/',
+            items: [{ text: 'nord-kitty', link: '/kitty/nord-kitty/' }],
+          },
         ],
       },
       {

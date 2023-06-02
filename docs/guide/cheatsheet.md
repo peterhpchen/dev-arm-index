@@ -4,13 +4,9 @@
 
 ### Rectangle <Badge text="macOS" />
 
-<Cover src="https://raw.githubusercontent.com/rxhanson/Rectangle/master/Rectangle/Assets.xcassets/AppIcon.appiconset/mac512pts2x.png" />
-
 <!-- @include: ../rectangle/sheet.md -->
 
 ### kitty
-
-<Cover src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" />
 
 <!-- @include: ../kitty/sheet.md -->
 

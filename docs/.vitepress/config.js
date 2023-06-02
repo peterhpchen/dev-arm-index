@@ -15,7 +15,7 @@ export default {
         text: '桌面',
         items: [
           { text: 'Rectangle', link: '/rectangle/' },
-          { text: 'Kitty', link: '/kitty/' },
+          { text: 'kitty', link: '/kitty/' },
         ],
       },
       {
@@ -48,8 +48,14 @@ export default {
           { text: 'Powerlevel10k', link: '/zsh/powerlevel10k/' },
           { text: 'zsh-autosuggestions', link: '/zsh/zsh-autosuggestions/' },
           { text: 'zsh-completions', link: '/zsh/zsh-completions/' },
-          { text: 'zsh-history-substring-search', link: '/zsh/zsh-history-substring-search/' },
-          { text: 'zsh-syntax-highlighting', link: '/zsh/zsh-syntax-highlighting/' },
+          {
+            text: 'zsh-history-substring-search',
+            link: '/zsh/zsh-history-substring-search/',
+          },
+          {
+            text: 'zsh-syntax-highlighting',
+            link: '/zsh/zsh-syntax-highlighting/',
+          },
         ],
       },
       {

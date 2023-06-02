@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as t,a as l}from"./app.8c76e0a9.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tmux/sheet.md"}'),n={name:"tmux/sheet.md"},a=l("",4),o=[a];function i(c,p,d,r,u,m){return t(),e("div",null,o)}const f=s(n,[["render",i]]);export{_ as __pageData,f as default};

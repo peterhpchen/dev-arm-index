@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as l,O as r}from"./chunks/framework.51afb0c9.js";const b=JSON.parse('{"title":"Neovim","description":"","frontmatter":{},"headers":[],"relativePath":"nvim/index.md","filePath":"nvim/index.md"}'),i={name:"nvim/index.md"},t=r("",35),s=[t];function o(n,h,u,d,c,m){return e(),l("div",null,s)}const f=a(i,[["render",o]]);export{b as __pageData,f as default};

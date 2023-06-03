@@ -2,7 +2,7 @@
 
 <Cover src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" />
 
-:globe_with_meridians: [Website](https://sw.kovidgoyal.net/kitty/)
+:globe_with_meridians: [網站](https://sw.kovidgoyal.net/kitty/)
 
 ## 相依
 
@@ -10,22 +10,17 @@
 
 ## :gear: 安裝
 
-:point_right: [Dot](https://github.com/peterhpchen/dotfiles/tree/main/dots/homebrew)
+藉由 Homebrew 安裝。
 
-::: code-group
-
-```ruby [Brewfile]
-tap "homebrew/cask"
-cask "kitty"
-```
+:point_right: [dots/homebrew](https://github.com/peterhpchen/dotfiles/tree/main/dots/homebrew)
 
 ## :wrench: 配置
 
-:point_right: [Dot](https://github.com/peterhpchen/dotfiles/tree/main/dots/kitty)
+:point_right: [dots/kitty](https://github.com/peterhpchen/dotfiles/tree/main/dots/kitty)
 
-## Packages
+## 套件
 
-- [nord-kitty](./nord-kitty/): kitty 的 [Nord Theme](https://www.nordtheme.com/) 設定。
+- [nord-kitty](./nord-kitty/) ： kitty 的 [Nord Theme](https://www.nordtheme.com/) 設定。
 
 ## 常用指令
 

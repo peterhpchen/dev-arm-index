@@ -2,7 +2,7 @@
 
 <Cover src="https://raw.githubusercontent.com/rxhanson/Rectangle/master/Rectangle/Assets.xcassets/AppIcon.appiconset/mac512pts2x.png" />
 
-:globe_with_meridians: [Website](https://rectangleapp.com/)
+:globe_with_meridians: [網站](https://rectangleapp.com/)
 
 使用指令配置桌面應用程式的視窗位置與大小。
 
@@ -13,20 +13,13 @@
 
 ## :wrench: 安裝
 
-:point_right: [Dot](https://github.com/peterhpchen/dotfiles/tree/main/dots/homebrew)
+藉由 Homebrew 安裝。
 
-::: code-group
-
-```ruby [Brewfile]
-tap "homebrew/cask"
-cask "rectangle"
-```
-
-:::
+:point_right: [dots/homebrew](https://github.com/peterhpchen/dotfiles/tree/main/dots/homebrew)
 
 ## :gear: 配置
 
-:point_right: [Dot](https://github.com/peterhpchen/dotfiles/tree/main/dots/rectangle)
+:point_right: [dots/rectangle](https://github.com/peterhpchen/dotfiles/tree/main/dots/rectangle)
 
 ```shellscript
 # 重複左右的指令時，視窗跳至同邊鄰近的螢幕上。

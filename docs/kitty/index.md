@@ -1,4 +1,4 @@
-# kitty - 終端機 <Badge type="danger" text="macOS" /> <Badge type="warning" text="Homebrew" />
+# kitty - 終端機 <Badge type="warning" text="Homebrew" />
 
 <Cover src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" />
 

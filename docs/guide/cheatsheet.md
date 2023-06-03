@@ -38,8 +38,6 @@
 
 ### BAT
 
-<Cover src="https://raw.githubusercontent.com/sharkdp/bat/master/doc/logo-header.svg" />
-
 <!-- @include: ../bat/sheet.md -->
 
 ### exa

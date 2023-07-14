@@ -71,7 +71,7 @@
 
 ### scp
 
-- `scp -i <ssh-key> -r <local-path> <remote-path>` ：將 `<local-path>` 的檔案以 `<ssh-key>` 的身份複製到 `<remote-path>` 上。 `<remote-path>` 格式為 `<ip>:<path>` 。
+- `scp -i <ssh-key> -r <local-path> <remote-path>` ：將 `<local-path>` 的檔案以 `<ssh-key>` 的身份複製到 `<remote-path>` 上。 `<remote-path>` 格式為 `<ip>:<path>` 。 `<ip>` 可以是 ssh config 內設定的 Host 。
 
 ### docker
 

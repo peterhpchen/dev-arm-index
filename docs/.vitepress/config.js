@@ -120,6 +120,7 @@ export default {
       '/vim/': [
         { text: '管理檔案', link: '/vim/manage-files' },
         { text: '折疊', link: '/vim/folding' },
+        { text: '標記', link: '/vim/marks' },
       ],
       ...sidebar(),
     },

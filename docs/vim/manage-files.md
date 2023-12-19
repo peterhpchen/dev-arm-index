@@ -18,5 +18,6 @@ Tab page 管控一個或多個 window ，藉由多個 Tab page 來管理不同�
 ## 延伸閱讀
 
 - [Using buffers, windows, and tabs efficiently in Vim - DEV Community](https://dev.to/iggredible/using-buffers-windows-and-tabs-efficiently-in-vim-56jc)
+- [Usr_22 - Neovim docs](https://neovim.io/doc/user/usr_22.html)
 - [Windows - Neovim docs](https://neovim.io/doc/user/windows.html)
 - [Tabpage - Neovim docs](https://neovim.io/doc/user/tabpage.html)

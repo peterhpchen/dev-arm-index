@@ -16,6 +16,7 @@ const firstLayerList = [
   'zsh',
   'nvim',
 ];
+
 const sidebar = () => {
   return firstLayerList
     .map((item) => {
@@ -116,7 +117,10 @@ export default {
       { icon: 'github', link: 'https://github.com/peterhpchen/my-dev-arms' },
     ],
     sidebar: {
-      '/vim/': [{ text: '管理檔案', link: '/vim/manage-files' }],
+      '/vim/': [
+        { text: '管理檔案', link: '/vim/manage-files' },
+        { text: '折疊', link: '/vim/folding' },
+      ],
       ...sidebar(),
     },
   },

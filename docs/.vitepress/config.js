@@ -109,6 +109,7 @@ export default {
     lineNumbers: false,
   },
   themeConfig: {
+    siteTitle: 'peterhpchen',
     nav: [
       { text: '指南', link: '/guide/cheatsheet' },
       { text: 'Vim', link: '/vim/' },
@@ -120,7 +121,6 @@ export default {
       '/vim/': [
         { text: '管理檔案', link: '/vim/manage-files' },
         { text: '折疊', link: '/vim/folding' },
-        { text: '標記', link: '/vim/marks' },
         { text: '標記', link: '/vim/marks' },
         { text: 'Register', link: '/vim/register' },
         { text: 'Macro', link: '/vim/macro' },

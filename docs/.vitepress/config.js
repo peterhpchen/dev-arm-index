@@ -124,6 +124,7 @@ export default {
         { text: '標記', link: '/vim/marks' },
         { text: 'Register', link: '/vim/register' },
         { text: 'Macro', link: '/vim/macro' },
+        { text: 'Motions', link: '/vim/motion' },
       ],
       ...sidebar(),
     },

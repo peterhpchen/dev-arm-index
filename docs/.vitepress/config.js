@@ -113,6 +113,7 @@ export default {
     nav: [
       { text: '指南', link: '/guide/cheatsheet' },
       { text: 'Vim', link: '/vim/' },
+      { text: 'Git', link: '/git/' },
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/peterhpchen/my-dev-arms' },
@@ -126,6 +127,7 @@ export default {
         { text: 'Macro', link: '/vim/macro' },
         { text: 'Motions', link: '/vim/motion' },
       ],
+      '/git/': [{ text: 'commit', link: '/git/commit' }],
       ...sidebar(),
     },
   },

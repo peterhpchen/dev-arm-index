@@ -86,6 +86,7 @@ const sidebar = () => {
               { text: 'fidget.nvim', link: '/nvim/fidget.nvim/' },
               { text: 'im-select.nvim', link: '/nvim/im-select.nvim/' },
               { text: 'packer.nvim', link: '/nvim/packer.nvim/' },
+              { text: 'Completion', link: '/nvim/completion' },
             ],
           },
           { text: '候選者', link: '/guide/candidates' },

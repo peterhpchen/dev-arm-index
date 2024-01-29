@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as t,O as e}from"./chunks/framework.51afb0c9.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bat/sheet.md","filePath":"bat/sheet.md"}'),l={name:"bat/sheet.md"},n=e("",2),o=[n];function c(p,i,r,d,_,m){return a(),t("div",null,o)}const u=s(l,[["render",c]]);export{h as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as o,O as r}from"./chunks/framework.51afb0c9.js";const p=JSON.parse('{"title":"Macro","description":"","frontmatter":{},"headers":[],"relativePath":"vim/macro.md","filePath":"vim/macro.md"}'),t={name:"vim/macro.md"},c=r("",6),i=[c];function l(d,s,n,_,m,h){return a(),o("div",null,i)}const f=e(t,[["render",l]]);export{p as __pageData,f as default};

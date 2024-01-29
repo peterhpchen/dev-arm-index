@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,O as l}from"./chunks/framework.51afb0c9.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"homebrew/sheet.md","filePath":"homebrew/sheet.md"}'),c={name:"homebrew/sheet.md"},a=l("",1),r=[a];function s(d,i,_,f,m,n){return t(),o("div",null,r)}const b=e(c,[["render",s]]);export{g as __pageData,b as default};

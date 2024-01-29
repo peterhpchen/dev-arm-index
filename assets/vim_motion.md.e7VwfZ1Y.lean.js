@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as i,V as d}from"./chunks/framework.ZP3QiZ4B.js";const f=JSON.parse('{"title":"移動","description":"","frontmatter":{},"headers":[],"relativePath":"vim/motion.md","filePath":"vim/motion.md"}'),c={name:"vim/motion.md"},l=d("",14),a=[l];function t(r,n,s,h,m,u){return i(),e("div",null,a)}const p=o(c,[["render",t]]);export{f as __pageData,p as default};

@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as o,O as t}from"./chunks/framework.51afb0c9.js";const p=JSON.parse('{"title":"標記","description":"","frontmatter":{},"headers":[],"relativePath":"vim/marks.md","filePath":"vim/marks.md"}'),r={name:"vim/marks.md"},i=t("",6),s=[i];function l(c,n,d,_,m,h){return e(),o("div",null,s)}const f=a(r,[["render",l]]);export{p as __pageData,f as default};

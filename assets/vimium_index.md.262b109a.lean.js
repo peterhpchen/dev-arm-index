@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as a,O as t}from"./chunks/framework.51afb0c9.js";const f=JSON.parse('{"title":"Vimium","description":"","frontmatter":{},"headers":[],"relativePath":"vimium/index.md","filePath":"vimium/index.md"}'),o={name:"vimium/index.md"},d=t("",3),c=[d];function l(r,n,m,_,s,u){return i(),a("div",null,c)}const p=e(o,[["render",l]]);export{f as __pageData,p as default};

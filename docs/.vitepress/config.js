@@ -2,6 +2,7 @@ const firstLayerList = [
   'guide',
   'rectangle',
   'kitty',
+  'vimium',
   'bat',
   'curl',
   'docker',
@@ -35,6 +36,10 @@ const sidebar = () => {
                 items: [{ text: 'nord-kitty', link: '/kitty/nord-kitty/' }],
               },
             ],
+          },
+          {
+            text: '瀏覽器',
+            items: [{ text: 'Vimium', link: '/vimium/' }],
           },
           {
             text: '終端',

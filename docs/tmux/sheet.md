@@ -22,3 +22,5 @@
 - `<prefix> [` ：進入 copy 模式，藉以複製字串或觀看歷史紀錄。
 - `<prefix> %` ：將此 pane 切割為兩個 panes ，左跟右。
 - `<prefix> "` ：將此 pane 切割為兩個 panes ，上跟下。
+- `<prefix> :` ：開啟 command line ，並開始輸入指令。
+  - `join-pane -s <from-window> -t <to-window>` ：將 `<from-window>` 合併至 `<to-window>` 。

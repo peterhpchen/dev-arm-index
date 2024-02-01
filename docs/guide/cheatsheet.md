@@ -76,7 +76,7 @@
 ### docker
 
 - `docker attach <container>` ：將 detached 的 container 重新叫回。
-- `docker system prune --all` ：清空所有 docker 暫存檔。
+- `docker system prune --all -f` ：清空所有 docker 暫存檔。
 
 ### df
 

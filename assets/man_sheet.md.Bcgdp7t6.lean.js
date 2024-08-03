@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a2 as c}from"./chunks/framework.CbbsxClZ.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"man/sheet.md","filePath":"man/sheet.md"}'),d={name:"man/sheet.md"},l=c("",3),a=[l];function i(n,s,_,r,g,p){return o(),t("div",null,a)}const u=e(d,[["render",i]]);export{h as __pageData,u as default};
